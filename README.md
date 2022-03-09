@@ -2,8 +2,11 @@
  The project based on Python Programming Language and Libraries used in this project are Pandas, Numpy, Seaborn, Matplotlib etc.
 
 # Overview
- The results can help film companies understand the secret to making a commercial success film.
- Using these libraries to clean, analyze, visualize data sets can help to predict the highest metascore of films.
+  The Internet Movie Database (IMDb) is an online information base that compiles a wide range of data about a wide range of film content. 
+  The results can help film companies understand the secret to making a commercial success film.
+  The project will help predict the highest metascore of the film, which means that the film made maximum profit in the film industry.
+  Based on this information an analysis can be made as to who is the best director and best actor for the new film which will help in earning maximum commercial profit.
+
 
 # Table Contents
 
